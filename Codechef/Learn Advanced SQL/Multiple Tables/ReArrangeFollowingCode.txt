@@ -1,0 +1,15 @@
+        <--------- Before arranging ------------->
+
+Rearrange the following code
+JOIN department
+ON employee.employee_id = department.employee_id;
+SELECT *
+FROM employee
+
+
+        <--------- After arranging ------------->
+
+SELECT *
+FROM employee
+JOIN department
+ON employee.employee_id = department.employee_id;

@@ -1,0 +1,15 @@
+With reference to the mentioned tables Customer and Purchase(assume these are the only tables in the database), which among the below mentioned statement is True.
+
+1.  Customer_id is the primary key for both the tables.
+
+2.  Customer_id is a foreign key in the table Purchase 
+
+3.  Purchase_id is a foreign key in the table Purchase
+
+4.  Purchase_id is a foreign key in the table Customer
+
+
+
+
+
+Answer: 2.  Customer_id is a foreign key in the table Purchase 

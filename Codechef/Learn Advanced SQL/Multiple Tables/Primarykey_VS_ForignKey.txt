@@ -1,0 +1,14 @@
+Which of the following statements about primary keys and foreign keys in a database is true?
+
+1.  Primary key is a field in one table that refers to the primary key of another table.
+
+2.  Foreign key is a field in one table that refers to the primary key of another table.
+
+3.  Primary key is a field that can have duplicate values.
+
+4.  Foreign key is a field that uniquely identifies each record in a table.
+
+
+
+
+Answer: 2.  Foreign key is a field in one table that refers to the primary key of another table.
