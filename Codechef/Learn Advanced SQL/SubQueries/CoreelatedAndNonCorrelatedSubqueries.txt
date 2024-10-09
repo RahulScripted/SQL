@@ -1,0 +1,17 @@
+Choose the correct option from the statement regarding Correlated and Non Correlated sub-queries. Which of the following statements is true about correlated and non-correlated sub-queries?
+
+
+1.  Correlated sub-queries always execute before non-correlated sub-queries.
+
+2.  Non-correlated sub-queries are more efficient than correlated sub-queries.
+
+3.  Correlated sub-queries are dependent on the outer query while non-correlated sub-queries are independent of the outer query.
+
+4.  Non-correlated sub-queries are always faster than correlated sub-queries.
+
+
+
+
+
+
+Answer: 3.  Correlated sub-queries are dependent on the outer query while non-correlated sub-queries are independent of the outer query.

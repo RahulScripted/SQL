@@ -1,0 +1,13 @@
+    <------------ Before Rearrangement ------------>
+
+Rearrange the following code
+EXCEPT
+SELECT * FROM pt_employee
+SELECT * FROM employee
+
+
+    <------------ After Rearrangement ------------>
+
+SELECT * FROM employee
+EXCEPT
+SELECT * FROM pt_employee

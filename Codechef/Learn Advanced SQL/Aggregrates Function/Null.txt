@@ -1,0 +1,22 @@
+Which of the following statements about IS NULL and IS NOT NULL in SQL are true?
+
+
+1.  IS NULL returns all records that contain a NULL value in the specified column.
+
+2.  IS NOT NULL returns all records that do not contain a NULL value in the specified column.
+
+3.  IS NULL can be used with any data type.
+
+4.  IS NOT NULL is equivalent to != NULL.
+
+
+
+
+
+Answers: 
+
+1.  IS NULL returns all records that contain a NULL value in the specified column.
+
+2.  IS NOT NULL returns all records that do not contain a NULL value in the specified column.
+
+3.  IS NULL can be used with any data type.
