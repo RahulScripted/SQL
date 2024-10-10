@@ -1,0 +1,13 @@
+<---------- Before Rearrange ------------>
+
+Rearrange the following code
+SELECT *
+LIMIT 5;
+from Flights
+
+
+<---------- After Rearrange ------------>
+
+SELECT *
+from Flights
+LIMIT 5;

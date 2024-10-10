@@ -1,0 +1,27 @@
+You need to output all columns from the table 'Flights' where either the origin is 'New York' or the origin in 'Mumbai'. Select the relevant options below.
+
+1.  select * from Flights
+    where origin = 'Mumbai'
+    or origin = 'New York';
+
+2.  select * from Flights
+    where origin = 'Mumbai'
+    and origin = 'New York';
+
+3.  select * from Flights
+    where origin = 'New York'
+    or origin = 'Mumbai';
+
+
+
+
+
+Answers: 
+
+1.  select * from Flights
+    where origin = 'Mumbai'
+    or origin = 'New York';
+
+3.  select * from Flights
+    where origin = 'New York'
+    or origin = 'Mumbai';

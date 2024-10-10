@@ -1,0 +1,17 @@
+<--------- Before Rearrange ------------->
+
+Rearrange the following code
+Below is the query to find the average Age of the students across
+divisions in the table 'student'.
+FROM student
+GROUP BY Divisions;
+SELECT Divisions,AVG(Age)
+
+
+<--------- After Rearrange ------------->
+
+Below is the query to find the average Age of the students across
+divisions in the table 'student'.
+SELECT Divisions,AVG(Age)
+FROM student
+GROUP BY Divisions;

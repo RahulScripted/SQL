@@ -1,0 +1,23 @@
+Which of the following are 'CONSTRAINTS'?
+
+1.  PRIMARY KEY
+
+2.  UNIQUE
+
+3.  DISTINCT
+
+4.  NOT NULL
+
+5.  DEFAULT
+
+
+
+Answers: 
+
+1.  PRIMARY KEY
+
+2.  UNIQUE
+
+4.  NOT NULL
+
+5.  DEFAULT

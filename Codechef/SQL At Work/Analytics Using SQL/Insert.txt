@@ -1,0 +1,20 @@
+Select the correct option below.
+
+1.  INSERT INTO student (Student_id,student_Name,Contact_Number)
+VALUES (34,Abel George,910023432)
+
+2.  INSERT INTO student (Studentid,studentName,ContactNumber)
+VALUES (34,'Abel George',910023432)
+
+3.  INSERT INTO student (Student_id,student_Name,Contact_Number)
+VALUES ('34','Abel George','910023432')
+
+4.  INSERT INTO student (Student_id,student_Name,Contact_Number)
+VALUES (34,'Abel George',910023432)
+
+
+
+
+
+Answers: 4.  INSERT INTO student (Student_id,student_Name,Contact_Number)
+VALUES (34,'Abel George',910023432)

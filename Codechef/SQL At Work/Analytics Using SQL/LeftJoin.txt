@@ -1,0 +1,16 @@
+If we **LEFT JOIN** the following 2 tables on the 'course_id' column which student_id will have null values?
+
+1.  1002
+
+2.  1003
+
+3.  1004
+
+4.  None of the above
+
+
+
+
+
+
+Answer: 4.  None of the above

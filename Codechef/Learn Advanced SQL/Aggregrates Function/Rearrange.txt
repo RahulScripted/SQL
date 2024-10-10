@@ -1,0 +1,15 @@
+<----------- Before Rearrange ------------->
+
+Rearrange the following code
+SELECT cuisine, 
+GROUP BY cuisine;
+FROM Orders
+COUNT(CASE WHEN category = 'Veg' THEN 1 ELSE NULL END)
+
+
+<----------- After Rearrange ------------->
+
+SELECT cuisine, 
+COUNT(CASE WHEN category = 'Veg' THEN 1 ELSE NULL END)
+FROM Orders
+GROUP BY cuisine;

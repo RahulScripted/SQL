@@ -1,0 +1,18 @@
+Which of the following is true about SQL?
+
+1.  SQL stands for Structured Query Language
+
+2.  SQL is used to store, manipulate, and retrieve data from a relational database. 
+
+3.  SQL is an inbuilt function within Microsoft Excel
+
+
+
+
+
+
+Answers: 
+
+1.  SQL stands for Structured Query Language
+
+2.  SQL is used to store, manipulate, and retrieve data from a relational database. 

@@ -1,0 +1,33 @@
+Which of the following is the correct syntax to declare a foreign key in a table?
+
+1.  CREATE TABLE orders (
+        order_id INT PRIMARY KEY,
+        order_date DATE,
+        customer_id INT,
+        FOREIGN KEY (customer_id)
+    );
+
+2.  CREATE TABLE orders (
+        order_id INT PRIMARY KEY,
+        order_date DATE,
+        customer_id INT,
+        FOREIGN KEY (customer_id) REFERENCES customers(customer_id)
+    );
+
+3.  CREATE TABLE orders (
+        order_id INT PRIMARY KEY,
+        order_date DATE,
+        customer_id INT,
+        FOREIGN KEY (customer_id) REFERENCES customers
+    );
+
+
+
+
+
+Answer: 2.  CREATE TABLE orders (
+            order_id INT PRIMARY KEY,
+            order_date DATE,
+            customer_id INT,
+            FOREIGN KEY (customer_id) REFERENCES customers(customer_id)
+        );

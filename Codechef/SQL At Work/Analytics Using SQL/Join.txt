@@ -1,0 +1,21 @@
+Suppose we want to join 2 tables - 'employee' and 'department' which have 'employee_id' as the common key - what would the query be? 
+
+1.  SELECT * FROM employee
+    JOIN department
+    ON employee.employee_id = department.employee_id;
+
+2.  SELECT * FROM employee
+    JOIN department
+    ON employee_id;	
+
+3.  SELECT * FROM department
+    JOIN employee 
+    ON department.employee_id = employee.employee_id;	
+
+
+
+
+
+Answer: 1.  SELECT * FROM employee
+        JOIN department
+        ON employee.employee_id = department.employee_id;

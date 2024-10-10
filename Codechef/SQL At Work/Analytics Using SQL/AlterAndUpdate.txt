@@ -1,0 +1,13 @@
+<--------- Before Rearrange ------------->
+
+Rearrange the following code
+WHERE student_id = 23;
+UPDATE student
+SET Age = 6
+
+
+<--------- After Rearrange ------------->
+
+UPDATE student
+SET Age = 6
+WHERE student_id = 23;

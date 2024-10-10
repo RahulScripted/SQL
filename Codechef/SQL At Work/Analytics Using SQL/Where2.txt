@@ -1,0 +1,20 @@
+Which of the following options is a query with the conditions: Destination city ends with 'o' AND Origin city starts with 'M'
+
+1.  select * from flights
+    where destination like '%O%'
+    and origin like 'M%';
+
+2.  select * from flights
+    where destination like '%o'
+    and origin like 'M%';
+
+3.  select * from flights
+    where destination like '_o'
+    and origin like '%M%';
+
+
+
+
+Answers: 2.  select * from flights
+        where destination like '%o'
+        and origin like 'M%';

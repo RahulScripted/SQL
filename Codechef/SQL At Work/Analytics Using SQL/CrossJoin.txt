@@ -1,0 +1,15 @@
+If Table-1 has 2 rows and Table-2 has 3 rows, how many rows will be present once we apply a CROSS JOIN?
+
+1.  2
+
+2.  4
+
+3.  5
+
+4.  6
+
+
+
+
+
+Answer: 4.  6

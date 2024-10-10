@@ -1,0 +1,17 @@
+<---------- Before Rearrange ------------->
+
+Rearrange the following code
+CREATE TABLE student (
+);
+   Department  TEXT
+   Student_id INT,
+   Student_Name  TEXT,
+
+
+<---------- After Rearrange ------------->
+
+CREATE TABLE student (
+   Student_id INT,
+   Student_Name  TEXT,
+   Department  TEXT
+);
