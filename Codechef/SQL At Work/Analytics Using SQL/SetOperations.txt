@@ -1,0 +1,26 @@
+What will the following query return?
+
+SELECT f_name FROM fruit
+EXCEPT
+SELECT inv_name FROM inventory;
+
+
+
+What does the given query return?
+
+SELECT f_name FROM fruit
+EXCEPT
+SELECT inv_name FROM inventory;
+
+
+1.  List of fruit names in the table 'fruit' which are present in the table 'inventory' as well.
+
+2.  List of fruit names in the table 'fruit' which are not present in the table 'inventory'.
+
+3.  List of fruit names present in both the tables 'fruit' and 'inventory'.
+
+
+
+
+
+Answer: 2.  List of fruit names in the table 'fruit' which are not present in the table 'inventory'

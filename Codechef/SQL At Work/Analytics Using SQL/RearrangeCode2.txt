@@ -1,0 +1,24 @@
+        <-------- Before Rearrangement ---------->
+SELECT
+   CASE
+     ELSE 'NA'
+     WHEN pay < 20000 THEN 'Level 1'
+     WHEN pay BETWEEN 20001 AND 40000 THEN 'Level 2'
+     WHEN pay >= 40000 THEN 'Level 3'
+   END AS Pay_category,
+FROM employee
+COUNT(*) as emp_count
+GROUP BY 1;
+
+
+        <-------- After Rearrangement ---------->
+SELECT
+   CASE
+     WHEN pay < 20000 THEN 'Level 1'
+     WHEN pay BETWEEN 20001 AND 40000 THEN 'Level 2'
+     WHEN pay >= 40000 THEN 'Level 3'
+     ELSE 'NA'
+   END AS Pay_category,
+COUNT(*) as emp_count
+FROM employee
+GROUP BY 1;

@@ -1,0 +1,21 @@
+SELECT order.id
+    FROM orders AS sub
+    WHERE price > (
+        SELECT AVG(price)
+        FROM orders
+        WHERE category = sub.category
+    );
+What exactly does the above query output?
+
+
+What of the following is the query trying to output?
+
+1.  Order_id where the price of an item is greater than the average price for the item's category.
+
+2.  Order_id where the price of an item is lesser than the average price for the item's category.	
+
+
+
+
+
+Answer: 1.  Order_id where the price of an item is greater than the average price for the item's category.

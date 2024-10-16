@@ -1,0 +1,21 @@
+From the query in the previous problem - which 3 months had the least profitability? Which months had the least profitability?
+
+1.  May
+
+2.  July
+
+3.  March
+
+4.  April
+
+
+
+
+
+Answers: 
+
+1.  May
+
+3.  March
+
+4.  April
