@@ -1,0 +1,19 @@
+-- In the previous problem, we saw the average cook, pack and delay times for all the pizzas. Which 2 pizzas had the highest average delay?Which 2 pizzas had the highest average delay?
+
+1.  Sundried tomatoes pizza
+
+2.  Cheese Pizza
+
+3.  Pepperoni Pizza
+
+4.  Tandoori chicken pizza
+
+
+
+
+
+Answers: 
+
+2.  Cheese Pizza
+
+3.  Pepperoni Pizza
